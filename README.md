@@ -26,5 +26,3 @@ This project aims to detect suicidal ideation from user-generated text using Nat
 ## 📌 Disclaimer
 This project is for academic and research purposes only. It does not replace professional mental health support.
 
-## 📬 Contact
-For questions, reach out via [GitHub Issues](https://github.com/yourusername/suicide-text-detection/issues).
